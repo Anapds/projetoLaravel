@@ -11,3 +11,7 @@
 @endif
 
 {{-- @unless retorna se o valor for falso--}}
+
+{{-- if(isset($variavel)) {} // retornar true se a variavel estiver definida --}}
+
+
